@@ -26,7 +26,7 @@ impl ObsContract {
             total_supply,
             FungibleTokenMetadata {
                 spec: FT_METADATA_SPEC.to_string(),
-                name: "Openbisea".to_string(),
+                name: "___".to_string(),
                 symbol: "OBS".to_string(),
                 icon: None,
                 reference: None,
